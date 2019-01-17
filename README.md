@@ -3,10 +3,10 @@ Uebung_SWE
 
 
 erster Kommentare
-Änderung im Zweig branch1 TEST  
+Änderung im Zweig branch2 TEST  
 
 
-Hi 
+Aloha
 
 
 Ich bin fertig mit diesem branch 
