@@ -2,11 +2,11 @@
 Uebung_SWE
 
 
-erster Kommentare
+erster Kommentar
 Änderung im Zweig branch1 TEST  
 
 
-Hi 
+MÖP
 
 
 Ich bin fertig mit diesem branch 
