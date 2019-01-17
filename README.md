@@ -1,12 +1,13 @@
 # SWE
 Uebung_SWE
+ 
+
+erster Kommentar
+Änderung im Zweig branch1 TEST  
 
 
-erster Kommentare
-Änderung im Zweig branch2 TEST  
+MÖP
 
-
-Aloha
 
 
 Ich bin fertig mit diesem branch 
